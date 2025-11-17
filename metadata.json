@@ -1,0 +1,5 @@
+{
+  "name": "Quiz Bíblico Animado",
+  "description": "Um quiz bíblico interativo e animado com perguntas e respostas geradas por IA. Teste seus conhecimentos com um cronômetro de 5 segundos para cada pergunta e descubra a resposta correta no final.",
+  "requestFramePermissions": []
+}
